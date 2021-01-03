@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1581995869 source:c:\users\badr el abbassi\desktop\compilation\analyseur_lexical.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<assert.h>
+	<string.h>
+	<math.h>
+	"Analyseur_lexical.h"
+	"Analyseur_semantique.h"
+	"Analyseur_syntaxique.h"
+
+1581999124 source:c:\users\badr el abbassi\desktop\compilation\analyseur_semantique.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<assert.h>
+	<string.h>
+	<math.h>
+	"Analyseur_lexical.h"
+	"Analyseur_semantique.h"
+	"Analyseur_syntaxique.h"
+
+1581999046 source:c:\users\badr el abbassi\desktop\compilation\main_pg.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<assert.h>
+	<string.h>
+	<math.h>
+	"Analyseur_lexical.h"
+	"Analyseur_semantique.h"
+	"Analyseur_syntaxique.h"
+
+1581994928 c:\users\badr el abbassi\desktop\compilation\analyseur_lexical.h
+
+1581999037 c:\users\badr el abbassi\desktop\compilation\analyseur_semantique.h
+
+1581993575 c:\users\badr el abbassi\desktop\compilation\analyseur_syntaxique.h
+
+1581999346 source:c:\users\badr el abbassi\desktop\compilation\analyseur_syntaxique.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<assert.h>
+	<string.h>
+	<math.h>
+	"Analyseur_lexical.h"
+	"Analyseur_semantique.h"
+	"Analyseur_syntaxique.h"
+
+1582010326 source:c:\users\xps\desktop\compilation\analyseur_lexical.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<assert.h>
+	<string.h>
+	<math.h>
+	"Analyseur_lexical.h"
+	"Analyseur_semantique.h"
+	"Analyseur_syntaxique.h"
+
+1581991328 c:\users\xps\desktop\compilation\analyseur_lexical.h
+
+1581995437 c:\users\xps\desktop\compilation\analyseur_semantique.h
+
+1581989975 c:\users\xps\desktop\compilation\analyseur_syntaxique.h
+
+1582017220 source:c:\users\xps\desktop\compilation\analyseur_semantique.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<assert.h>
+	<string.h>
+	<math.h>
+	"Analyseur_lexical.h"
+	"Analyseur_semantique.h"
+	"Analyseur_syntaxique.h"
+
+1582010502 source:c:\users\xps\desktop\compilation\analyseur_syntaxique.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<assert.h>
+	<string.h>
+	<math.h>
+	"Analyseur_lexical.h"
+	"Analyseur_semantique.h"
+	"Analyseur_syntaxique.h"
+
+1581995446 source:c:\users\xps\desktop\compilation\main_pg.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<assert.h>
+	<string.h>
+	<math.h>
+	"Analyseur_lexical.h"
+	"Analyseur_semantique.h"
+	"Analyseur_syntaxique.h"
+
